@@ -1,7 +1,8 @@
- https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/jsDelivr/clone.png 
- https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/jsDelivr/create.png 
- https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/jsDelivr/getName.bat 
- https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/jsDelivr/PIC_NAME_LIST.TXT 
- https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/jsDelivr/release1.png 
- https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/jsDelivr/release2.png 
- https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/jsDelivr/URL.txt 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.1/jsDelivr/autoProductURL.png 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.1/jsDelivr/clone.png 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.1/jsDelivr/create.png 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.1/jsDelivr/getName.bat 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.1/jsDelivr/PIC_NAME_LIST.TXT 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.1/jsDelivr/release1.png 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.1/jsDelivr/release2.png 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.1/jsDelivr/URL.txt 

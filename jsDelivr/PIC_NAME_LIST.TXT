@@ -1,3 +1,4 @@
+autoProductURL.png
 clone.png
 create.png
 getName.bat
