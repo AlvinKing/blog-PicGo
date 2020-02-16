@@ -1,0 +1,7 @@
+clone.png
+create.png
+getName.bat
+PIC_NAME_LIST.TXT
+release1.png
+release2.png
+URL.txt

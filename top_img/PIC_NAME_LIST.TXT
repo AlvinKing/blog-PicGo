@@ -1,0 +1,6 @@
+bali.jpg
+getName.bat
+PIC_NAME_LIST.TXT
+team-3393037_1920.jpg
+URL.txt
+water.jpg

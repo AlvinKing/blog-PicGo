@@ -1,0 +1,6 @@
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/top_img/bali.jpg 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/top_img/getName.bat 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/top_img/PIC_NAME_LIST.TXT 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/top_img/team-3393037_1920.jpg 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/top_img/URL.txt 
+ https://cdn.jsdelivr.net/gh/AlvinKing/blog-PicGo@v1.0/top_img/water.jpg 
